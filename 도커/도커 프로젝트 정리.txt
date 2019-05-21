@@ -1,0 +1,8 @@
+마이크로 서비스라 컴퓨터 여러 대 운용??
+데이터set이 커야 트레이닝 하기 좋음.
+마이크로 서비스가 되기 위해서 데이터가 따로 있고 모듈화.
+nginx configuration을 해서 외부 요청이 오면 어떤 tensorflow와 연결시켜야 하는지.
+TCP/tunneling??
+tensorflow 마다 딥러닝 알고리즘이 다름.
+외부 VIP - Virutal IP
+static하게 연결?
